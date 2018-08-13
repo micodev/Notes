@@ -11,4 +11,4 @@ Useful WebSites
 |يظهر النه ناف بار بشكل كلش جميل وبيه غواش|`#menu #navbar`|
 |[click here](https://oncebot.github.io/pushbar.js/)|
 |test|`#test`|
-|[click here]|(https://oncebot.github.io/pushbar.js/)|
+|[click here](https://oncebot.github.io/pushbar.js/)|
