@@ -2,6 +2,8 @@ Useful WebSites
 ---------------
 | row for description and row for url |#|
 |:----:|:--:|
+|مكتبه جافا سكربت رائعه |`#wow_js`|
+|[click here](https://mynameismatthieu.com/WOW/index.html)|
 |شايف المواقع الي من تنزل مكان معين تلكاه فارغ وفجئه يطلعلك شي من جوه يروح للمكان ويملي |`#scroll`|
 |[click here](https://andycaygill.github.io/scroll-entrance/)|
 |يفيد بل بدايه يخلينه نطلع الكلام كانما جاي ي نكتب |`#text-animate`|
