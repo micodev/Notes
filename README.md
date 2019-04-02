@@ -18,3 +18,5 @@ Useful WebSites
 |[click here](https://www.sitepoint.com/our-top-9-animation-libraries/)| `#Animate.css #Bounce.js #AnimeJS #Magic_Animations #DynCSS #CSShake #Hover.CSS #Velocity.js #AniJS`|
 |[click here](https://colorlib.com/wp/jquery-animation-library-plugins/)|`#icon #motion #slideshow #popmotion #draw #svg #animate #headlines #loader`|
 |[click here](https://tympanus.net)|`#tricks`|
+|موقع يسوي gradient جاهز|`#color #gradients`|
+|[click here](https://mycolor.space/)|
